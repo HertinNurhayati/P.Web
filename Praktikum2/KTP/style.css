@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.ktp {
+    position: relative;
+    width: 500px;
+    height: 300px;
+    margin: 60px auto;
+    background-color: #add8e6; /* Warna biru muda */
+    border-radius: 10px;
+}
+
+.header {
+    text-align: center;
+    color: black;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header h5 {
+    margin: 1px 0;
+}
+
+.header img {
+    width: 30px;
+    height: 30px;
+}
+
+.info {
+    display: flex;
+    line-height: 0;
+}
+
+
+.personal-info,
+.address-info {
+    flex: 1;
+    margin: 20px;
+    font-size: 12px;
+}
+
+.personal-info p {
+    margin-bottom: 0px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.personal-info p.indent {
+    margin-left: 20px;
+}
+
+.personal-info h3,
+.address-info h3 {
+    color: black;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.photo {
+    width: 120px;
+    height: 150px;
+    border-radius: 2px;
+    float: right;
+}
+
+.photo2 {
+    width: 50px;
+    height: 25px;
+    border-radius: 2px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 30px;
+}
+
+
+
+.footer {
+    display: flex;
+    color: black;
+    margin-left: 400px;
+    font-size: 10px;
+    margin-top: 0px;
+}
