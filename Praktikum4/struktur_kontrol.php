@@ -1,5 +1,5 @@
 <?php
-/*PRAKTIKUM BAGIAN 3 : PENGGUNAAN OPERATOR PHP */
+/*PRAKTIKUM BAGIAN 4 : PENGGUNAAN STRUKTUR KONTROL PADA PHP */
 
 /*Buat satu file baru bernama struktur_kontrol.php di dalam folder dasarWeb. Ketikkan kode pada langkah 2 di dalam struktur_kontrol.php */
 $nilaiNumerik = 92;
